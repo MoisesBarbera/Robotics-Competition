@@ -1,4 +1,4 @@
-# Robotics-Competition
+# Robotics-Competition-China
 
 As Vice-President of the Coding and Robotics Society in Liverpool, UK, I was invited with other committee members to attend a robotics competition in Shanghai, China. Since I was responsible for the coding supervision of the project, I also implemented C based Arduino programming to create a hand gesture controller to wireless drive a smart car we built from scratch.
 
