@@ -1,4 +1,8 @@
- #include <SoftwareSerial.h>
+//MOISES BARBERA RAMOS
+//"CODING AND ROBOTICS SOCIETY" VICE-PRESIDENT
+//14-06-2018 LIVERPOOL, UK - SHANGHAI, CHINA
+
+#include <SoftwareSerial.h>
 SoftwareSerial BTSerial(2, 3); // RX | TX
   
 // we define motors pins.
